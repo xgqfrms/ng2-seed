@@ -83,6 +83,24 @@ ng2seed
 
 
 
+npm-publish
+
+package.json
+
+name === ng2-seed
+repo name === ng2-seed
+
+
+package.json name === repo name
+
+
+https://github.com/xgqfrms/ng2-seed/projects/1
+
+
+
+
+
+
 
 
 
