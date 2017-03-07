@@ -1,6 +1,6 @@
-# ng2seed  
+# ng2-seed  
 
-> ng2seed: Angular2 seed    
+> ng2-seed: Angular2 seed    
 
 All guides and cookbooks have at least these core files.   
 
@@ -20,10 +20,10 @@ https://angular.io/docs/ts/latest/guide/setup.html
  
 
 
-## ng2seed
+## ng2-seed
 
 
-G:\wwwRoot\ng2seed
+G:\wwwRoot\ng2-seed
 
 
 npm publish --tag stable
@@ -34,14 +34,14 @@ npm publish --tag stable
 
 
 
-https://github.com/xgqfrms/ng2seed
+https://github.com/xgqfrms/ng2-seed
 
 
 
 ```json
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xgqfrms/ng2seed.git"
+    "url": "git+https://github.com/xgqfrms/ng2-seed.git"
   },
   "keywords": [
     "npm"
@@ -49,9 +49,9 @@ https://github.com/xgqfrms/ng2seed
   "author": "xgqfrms",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xgqfrms/ng2seed/issues"
+    "url": "https://github.com/xgqfrms/ng2-seed/issues"
   },
-  "homepage": "https://github.com/xgqfrms/ng2seed#readme",
+  "homepage": "https://github.com/xgqfrms/ng2-seed#readme",
 ```
 
 

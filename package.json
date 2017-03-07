@@ -1,5 +1,5 @@
 {
-  "name": "ng2seed",
+  "name": "ng2-seed",
   "version": "2.2.1",
   "license": "MIT",
   "angular-cli": {},
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xgqfrms/ng2seed.git"
+    "url": "git+https://github.com/xgqfrms/ng2-seed.git"
   },
   "keywords": [
     "npm",
-    "ng2seed",
+    "ng2-seed",
     "xgqfrms",
     "angular2",
     "seed"
@@ -24,9 +24,9 @@
   "author": "xgqfrms",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xgqfrms/ng2seed/issues"
+    "url": "https://github.com/xgqfrms/ng2-seed/issues"
   },
-  "homepage": "https://github.com/xgqfrms/ng2seed#readme",
+  "homepage": "https://github.com/xgqfrms/ng2-seed#readme",
   "dependencies": {
     "@angular/common": "2.2.1",
     "@angular/compiler": "2.2.1",
