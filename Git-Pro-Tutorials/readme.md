@@ -8,7 +8,7 @@
 
 
 # linux
-$ git help log
+$ man git-log
 
 
 # windows
