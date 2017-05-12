@@ -1,22 +1,20 @@
-# ng2-seed  
+# ng2-seed: Angular2 seed    
 
-> ng2-seed: Angular2 seed    
+> All guides and cookbooks have at least these core files.   
 
-All guides and cookbooks have at least these core files.   
-
-(app.component.ts, app.module.ts, main.ts)  
+`(app.component.ts, app.module.ts, main.ts)  `
 
 ![](img/webpack-dir(Angular2-App).png)
 
 https://angular.io/docs/ts/latest/guide/setup.html
 
-![ng2seed(JiT vs AoT).png](img/ng2seed(JiT vs AoT).png)
+![ng2seed(JiT vs AoT).png](https://raw.githubusercontent.com/xgqfrms/ng2-seed/master/img/ng2seed(JiT%20vs%20AoT).png)
 
-![ng2seed(app.component.ts, app.module.ts, main.ts).png](/img/ng2seed(app.component.ts, app.module.ts, main.ts).png)
+![ng2seed(app.component.ts, app.module.ts, main.ts).png](https://raw.githubusercontent.com/xgqfrms/ng2-seed/master/img/ng2seed(app.component.ts%2C%20app.module.ts%2C%20main.ts).png)
 
 ![angular-tour-of-heroes(dir).png	](./img/angular-tour-of-heroes(dir).png	)
 
-![](img/Behavior-Driven Javascript(Jasmine).png	)
+![](https://raw.githubusercontent.com/xgqfrms/ng2-seed/master/img/Behavior-Driven%20Javascript(Jasmine).png	)
  
 
 
