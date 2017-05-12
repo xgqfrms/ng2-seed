@@ -25,8 +25,11 @@ https://angular.io/docs/ts/latest/guide/setup.html
 
 G:\wwwRoot\ng2-seed
 
+```sh
 
-npm publish --tag stable
+$ npm publish --tag stable
+
+```
 
 !["private": true](./img/npm-publish-private-error.png)
 
@@ -58,12 +61,13 @@ https://github.com/xgqfrms/ng2-seed
 
 
 
-Collaborators Push access to the repository
+# Collaborators Push access to the repository
 
 
-Transfer repository
+## Transfer repository
 
 
+```md
 
 A Transfer repository B
 
@@ -72,20 +76,26 @@ A Transfer repository B
 B copy A & A deletee A
 
 
+```
 
 
 
 
 
-ng2seed
+# `ng2seed`
 
-🎅❄🎄🎁🔀⛄🔔 ng2seed: All guides and cookbooks have at least these core files. (app.component.ts, app.module.ts, main.ts )https://angular.io/docs/ts/latest/guide/setup.html
+🎅❄🎄🎁🔀⛄🔔 ng2seed: All guides and cookbooks have at least these core files. 
+(app.component.ts, app.module.ts, main.ts )https://angular.io/docs/ts/latest/guide/setup.html
 
 
+```sh
+$ npm-publish
 
-npm-publish
+```
 
 package.json
+
+```js
 
 name === ng2-seed
 repo name === ng2-seed
@@ -93,6 +103,7 @@ repo name === ng2-seed
 
 package.json name === repo name
 
+```
 
 https://github.com/xgqfrms/ng2-seed/projects/1
 
